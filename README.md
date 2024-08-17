@@ -1,13 +1,13 @@
 # Wallpaper
 
-update 0.1.24
+# update 0.1.24
 
-update 0.2.24
+# update 0.2.24
 [+] dodaje tapety dla windows server
 
-update 0.3.24 (tapety generowane za pomocą sztucznej inteligencji)
+# update 0.3.24-alpha
 
-[+] dodano 35 nowych tapety
+[+] dodano 35 nowych tapety (tapety generowane za pomocą sztucznej inteligencji)
  
 [+] dodano skrypt instalacyjny
 
