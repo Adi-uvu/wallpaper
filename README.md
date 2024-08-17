@@ -5,7 +5,7 @@ update 0.1.24
 update 0.2.24
 [+] dodaje tapety dla windows server
 
-update 0.3.24
+update 0.3.24 (tapety generowane za pomocą sztucznej inteligencji)
 
 [+] dodano 35 nowych tapety
  
