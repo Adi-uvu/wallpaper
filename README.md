@@ -33,6 +33,8 @@
 
 # WallpaperByAdi_uvu-0.3.24-alpha
 
+![Bez nazwy](https://github.com/user-attachments/assets/562dcd0a-2d20-4ba2-a2d8-b4b8fd12e4c8)
+
 # 0.3.24-beta
 
 * aby zainstalować tapety na Linux:
