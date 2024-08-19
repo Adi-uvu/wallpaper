@@ -50,12 +50,12 @@
 
 # update 0.2.24
 
-[+] dodaje tapety dla windows server
+[+] dodaje tapety dla windows server (tapety generowane za pomocą sztucznej inteligencji)
 
 ![3435](https://github.com/Adi-uvu/wallpeper/assets/102376281/eb127244-cb66-4b56-b680-a4afc2cd52df)
 
 # update 0.1.24
-[+] 0.1.24 dodaje nowe tapety dla systemów
+[+] 0.1.24 dodaje nowe tapety dla systemów (tapety generowane za pomocą sztucznej inteligencji)
 
 * Windows 10
 * Windows 11
