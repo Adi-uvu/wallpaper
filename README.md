@@ -63,8 +63,6 @@
 
 ![1235721](https://github.com/Adi-uvu/wallpeper/assets/102376281/dffb2a56-9028-4442-9694-67c9a72820ed)
 
-<<<<<<< HEAD
-
 # budgie-orchis-wallpaper
 
 Wallpaper By lsteam
