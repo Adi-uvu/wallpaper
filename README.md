@@ -73,4 +73,5 @@ https://www.pling.com/p/1660776/
 
 https://www.opencode.net/lsteam
 
-![blue-flower-gradidasdent-vivo-stock-android-10-3840x2160-494](https://github.com/user-attachments/assets/ac9371ac-7ea5-47b6-a599-86c123debca0)
+![beznazwy](https://github.com/user-attachments/assets/6b744a7a-070b-4c40-b363-1c5637c2f381)
+
