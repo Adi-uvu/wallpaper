@@ -1,9 +1,21 @@
 # Wallpaper-archive
 
 # update 0.1.24
+[+] 0.1.24 dodaje nowe tapety dla systemów
+
+* Windows 10
+* Windows 11
+*UbuntuServer 23.10
+* UbuntuBudgie 23.10
+
+
+![1235721](https://github.com/Adi-uvu/wallpeper/assets/102376281/dffb2a56-9028-4442-9694-67c9a72820ed)
 
 # update 0.2.24
+
 [+] dodaje tapety dla windows server
+
+![3435](https://github.com/Adi-uvu/wallpeper/assets/102376281/eb127244-cb66-4b56-b680-a4afc2cd52df)
 
 # update 0.3.24-alpha
 
