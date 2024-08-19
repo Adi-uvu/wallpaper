@@ -1,7 +1,6 @@
 # *Wallpaper-archive*
 
-![14](https://github.com/user-attachments/assets/b2c8aeb7-28ce-4559-a052-ad4311c878c8)
-
+![214324](https://github.com/user-attachments/assets/387504c7-bd82-424b-9563-d48dbd9cd69a)
 
 # 0.3.24-beta
 
