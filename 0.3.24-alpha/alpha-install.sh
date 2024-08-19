@@ -147,7 +147,7 @@ if [ "$1" = "-rm" ] || [ "$1" = "-remove" ]; then
     if [ -d "/usr/share/wallpapers" ]; then
       rm -rf /usr/share/wallpapers/wallpaper-0.3.24
       echo "Usunięto pliki z /usr/share/wallpapers/"
-      
+    fi
     # Usuwanie pliku gtk.xml z katalogu ukui-background-properties, jeśli istnieje
     if [ -d "/usr/share/ukui-background-properties" ]; then
       if [ -f "/usr/share/ukui-background-properties/gtk.xml" ]; then
